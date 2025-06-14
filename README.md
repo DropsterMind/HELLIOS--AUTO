@@ -7,10 +7,10 @@ HELLIOS TESTNET AUTO BOT BY [NT EXHAUST](https://t.me/NTExhaust)
 ## Instalation
 1. **Clone The Repositories:**
    ```bash
-   git clone https://github.com/DropsterMind/HELLIOS--AUTO.git
+   git clone https://github.com/DropsterMind/HELLIOS-AUTO.git
    ```
    ```bash
-   cd HELLIOS--AUTO
+   cd HELLIOS-AUTO
    ```
 2. **Install Dependencies:**
    ```bash
